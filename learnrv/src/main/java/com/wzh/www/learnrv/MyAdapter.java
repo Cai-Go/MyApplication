@@ -38,6 +38,6 @@ class MyAdapter extends RecyclerView.Adapter {
 
  }
 
-    private CellData[] data = new CellData[]{new CellData("盐酸","硫酸"),new CellData("新闻","特大新闻") };
+    private CellData[] data = new CellData[]{new CellData("盐酸","硫酸") , new CellData("新闻","特大新闻"), new CellData("新闻","特大新闻"), new CellData("新闻","特大新闻") };
 //    private  String data[] = new String[]{"Hello","World","WZH"};
 }
