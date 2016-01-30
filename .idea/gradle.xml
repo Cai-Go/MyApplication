@@ -13,6 +13,7 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/learnrv" />
             <option value="$PROJECT_DIR$/sharedpreferencestest" />
+            <option value="$PROJECT_DIR$/sqlitetest" />
           </set>
         </option>
         <option name="myModules">
@@ -22,6 +23,7 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/learnrv" />
             <option value="$PROJECT_DIR$/sharedpreferencestest" />
+            <option value="$PROJECT_DIR$/sqlitetest" />
           </set>
         </option>
       </GradleProjectSettings>

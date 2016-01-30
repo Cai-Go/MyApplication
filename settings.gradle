@@ -1,1 +1,1 @@
-include ':app', ':learnrv', ':FilePersistenceTest', ':sharedpreferencestest'
+include ':app', ':learnrv', ':FilePersistenceTest', ':sharedpreferencestest', ':sqlitetest'
