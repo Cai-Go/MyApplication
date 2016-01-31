@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     tools:context="com.example.sqlitetest.MainActivity">
-    <!--
+
         <Button
         android:id="@+id/create_database"
         android:layout_width="match_parent"
@@ -41,30 +41,8 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Replace data"/>
-            -->
-    <Button
-        android:id="@+id/add_data"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Add To Book"/>
 
-    <Button
-        android:id="@+id/query_data"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Query From Book"/>
 
-    <Button
-        android:id="@+id/update_data"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Update Data"/>
-
-    <Button
-        android:id="@+id/delete_data"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Delete From Book"/>
 
 
 </LinearLayout>

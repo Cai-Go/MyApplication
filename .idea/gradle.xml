@@ -13,6 +13,7 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/contactstest" />
             <option value="$PROJECT_DIR$/learnrv" />
+            <option value="$PROJECT_DIR$/providertest" />
             <option value="$PROJECT_DIR$/sharedpreferencestest" />
             <option value="$PROJECT_DIR$/sqlitetest" />
           </set>
@@ -24,6 +25,7 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/contactstest" />
             <option value="$PROJECT_DIR$/learnrv" />
+            <option value="$PROJECT_DIR$/providertest" />
             <option value="$PROJECT_DIR$/sharedpreferencestest" />
             <option value="$PROJECT_DIR$/sqlitetest" />
           </set>
