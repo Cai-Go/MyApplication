@@ -10,6 +10,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/FilePersistenceTest" />
+            <option value="$PROJECT_DIR$/Notificationtest" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/contactstest" />
             <option value="$PROJECT_DIR$/learnrv" />
@@ -23,6 +24,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/FilePersistenceTest" />
+            <option value="$PROJECT_DIR$/Notificationtest" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/contactstest" />
             <option value="$PROJECT_DIR$/learnrv" />
