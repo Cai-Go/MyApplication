@@ -13,7 +13,6 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
-import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -80,19 +79,6 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
-    class SendStatusReceiver extends BroadcastReceiver{
-
-        @Override
-        public void onReceive(Context context, Intent intent) {
-            if (getResultCode() == RESULT_OK){
-                //短信发送成功
-                Toast.makeText(context,"Send succeeded",Toast.LENGTH_SHORT).show();
-            }else {
-                //短信发送失败
-                Toast.makeText(context,"Send failed",Toast.LENGTH_LONG).show();
-            }
-        }
-    }
     @Override
     protected void onDestroy() {
         super.onDestroy();
