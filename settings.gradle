@@ -1,1 +1,1 @@
-include ':app', ':learnrv', ':FilePersistenceTest', ':sharedpreferencestest', ':sqlitetest', ':contactstest', ':providertest', ':mydesigntest', ':Notificationtest', ':SMSTest', ':ChoosePicTest'
+include ':app', ':learnrv', ':FilePersistenceTest', ':sharedpreferencestest', ':sqlitetest', ':contactstest', ':providertest', ':mydesigntest', ':Notificationtest', ':SMSTest', ':ChoosePicTest', ':PlayAudioTest'
