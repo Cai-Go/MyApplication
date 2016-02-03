@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
       <module fileurl="file://$PROJECT_DIR$/Notificationtest/Notificationtest.iml" filepath="$PROJECT_DIR$/Notificationtest/Notificationtest.iml" />
       <module fileurl="file://$PROJECT_DIR$/PlayAudioTest/PlayAudioTest.iml" filepath="$PROJECT_DIR$/PlayAudioTest/PlayAudioTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PlayVedioTest/PlayVedioTest.iml" filepath="$PROJECT_DIR$/PlayVedioTest/PlayVedioTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/SMSTest/SMSTest.iml" filepath="$PROJECT_DIR$/SMSTest/SMSTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/contactstest/contactstest.iml" filepath="$PROJECT_DIR$/contactstest/contactstest.iml" />
