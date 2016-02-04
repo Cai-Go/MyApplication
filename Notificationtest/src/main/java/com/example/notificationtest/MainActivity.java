@@ -46,8 +46,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                         , intent, PendingIntent.FLAG_CANCEL_CURRENT);
                 //注意getActivities()方法的选择
 
-
-
                 Notification.Builder builder =new Notification.Builder(this)
                         .setContentTitle("New mail from ")
                         .setContentText("This is ticker text")
