@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/ChoosePicTest/ChoosePicTest.iml" filepath="$PROJECT_DIR$/ChoosePicTest/ChoosePicTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/FilePersistenceTest/FilePersistenceTest.iml" filepath="$PROJECT_DIR$/FilePersistenceTest/FilePersistenceTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NetworkTest/NetworkTest.iml" filepath="$PROJECT_DIR$/NetworkTest/NetworkTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/Notificationtest/Notificationtest.iml" filepath="$PROJECT_DIR$/Notificationtest/Notificationtest.iml" />
       <module fileurl="file://$PROJECT_DIR$/PlayAudioTest/PlayAudioTest.iml" filepath="$PROJECT_DIR$/PlayAudioTest/PlayAudioTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/PlayVedioTest/PlayVedioTest.iml" filepath="$PROJECT_DIR$/PlayVedioTest/PlayVedioTest.iml" />
