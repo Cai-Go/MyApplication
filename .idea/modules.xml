@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/SMSTest/SMSTest.iml" filepath="$PROJECT_DIR$/SMSTest/SMSTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/ServiceBestPratice/ServiceBestPratice.iml" filepath="$PROJECT_DIR$/ServiceBestPratice/ServiceBestPratice.iml" />
       <module fileurl="file://$PROJECT_DIR$/ServiceTest/ServiceTest.iml" filepath="$PROJECT_DIR$/ServiceTest/ServiceTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebViewTest/WebViewTest.iml" filepath="$PROJECT_DIR$/WebViewTest/WebViewTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/contactstest/contactstest.iml" filepath="$PROJECT_DIR$/contactstest/contactstest.iml" />
       <module fileurl="file://$PROJECT_DIR$/learnrv/learnrv.iml" filepath="$PROJECT_DIR$/learnrv/learnrv.iml" />
