@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/AndroidThreadTest/AndroidThreadTest.iml" filepath="$PROJECT_DIR$/AndroidThreadTest/AndroidThreadTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/ChoosePicTest/ChoosePicTest.iml" filepath="$PROJECT_DIR$/ChoosePicTest/ChoosePicTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/FilePersistenceTest/FilePersistenceTest.iml" filepath="$PROJECT_DIR$/FilePersistenceTest/FilePersistenceTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LocationTest/LocationTest.iml" filepath="$PROJECT_DIR$/LocationTest/LocationTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
       <module fileurl="file://$PROJECT_DIR$/NetworkTest/NetworkTest.iml" filepath="$PROJECT_DIR$/NetworkTest/NetworkTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/Notificationtest/Notificationtest.iml" filepath="$PROJECT_DIR$/Notificationtest/Notificationtest.iml" />
