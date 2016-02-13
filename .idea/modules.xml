@@ -11,6 +11,7 @@
       <module fileurl="file://$PROJECT_DIR$/Notificationtest/Notificationtest.iml" filepath="$PROJECT_DIR$/Notificationtest/Notificationtest.iml" />
       <module fileurl="file://$PROJECT_DIR$/PlayAudioTest/PlayAudioTest.iml" filepath="$PROJECT_DIR$/PlayAudioTest/PlayAudioTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/PlayVedioTest/PlayVedioTest.iml" filepath="$PROJECT_DIR$/PlayVedioTest/PlayVedioTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecyvlerView/RecyvlerView.iml" filepath="$PROJECT_DIR$/RecyvlerView/RecyvlerView.iml" />
       <module fileurl="file://$PROJECT_DIR$/SMSTest/SMSTest.iml" filepath="$PROJECT_DIR$/SMSTest/SMSTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/ServiceBestPratice/ServiceBestPratice.iml" filepath="$PROJECT_DIR$/ServiceBestPratice/ServiceBestPratice.iml" />
       <module fileurl="file://$PROJECT_DIR$/ServiceTest/ServiceTest.iml" filepath="$PROJECT_DIR$/ServiceTest/ServiceTest.iml" />
