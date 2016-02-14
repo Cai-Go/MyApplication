@@ -1,4 +1,4 @@
-package w.recyvlerview;
+package com.wzh.recyclerview;
 
 import org.junit.Test;
 
